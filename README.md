@@ -1,4 +1,4 @@
-<p align="center"><img src="https://res.cloudinary.com/dexratgkq/image/upload/v1662109124/4884785_eykqdb.jpg" height="400" width="60%"></p>
+
 
 <h1 align="center">Hi 👋, I'm Darshan Balar</h1>
 <h3 align="center">A PASSIONATE WEB DEVELOPER FROM INDIA</h3>
@@ -13,8 +13,11 @@
 
 - 📫 you can reach me via my **balardarshan40@gmail.com**
 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/darshanbalar40" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="darshanbalar40" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/balardarshan40" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="balardarshan40" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/darshan-balar-4302141bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/darshan-balar-4302141bb/" height="30" width="70" /></a>
 <a href="https://instagram.com/darshanbalar40" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="darshanbalar40" height="30" width="70" /></a>
 </p>
