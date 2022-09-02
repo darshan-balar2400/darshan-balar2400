@@ -1,3 +1,5 @@
+<p align="center"><img src="https://res.cloudinary.com/dexratgkq/image/upload/v1662109124/4884785_eykqdb.jpg" height="400" width="60%"></p>
+
 <h1 align="center">Hi 👋, I'm Darshan Balar</h1>
 <h3 align="center">A PASSIONATE WEB DEVELOPER FROM INDIA</h3>
 
