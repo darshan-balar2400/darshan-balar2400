@@ -17,7 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/darshanbalar40" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="darshanbalar40" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/balardarshan_db/" target="blank"><img align="center" src="https://res.cloudinary.com/dexratgkq/image/upload/v1705859653/Products-Shivay/rxf09agbftz6f6kpn7h0.png" alt="balardarshan40" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/balardarshan_db/" target="blank"><img align="center" src="https://res.cloudinary.com/dexratgkq/image/upload/v1705859579/Products-Shivay/w31hkezvc1cl3rs43hzw.png" alt="balardarshan40" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/darshan-balar-4302141bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/darshan-balar-4302141bb/" height="30" width="70" /></a>
 <a href="https://instagram.com/darshanbalar40" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="darshanbalar40" height="30" width="70" /></a>
 </p>
