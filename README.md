@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **MERN STACK DEVELOPMENT**
+- 🌱 I’m currently doing **MCA From VIT,Vellore**
 
 - 💬 Ask me about **Web Development**
 
@@ -18,6 +18,7 @@
 <p align="left">
 <a href="https://twitter.com/darshanbalar40" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="darshanbalar40" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/balardarshan40" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="balardarshan40" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/balardarshan_db/" target="blank"><img align="center" src="https://res.cloudinary.com/dexratgkq/image/upload/v1705859579/Products-Shivay/w31hkezvc1cl3rs43hzw.png" alt="balardarshan40" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/darshan-balar-4302141bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/darshan-balar-4302141bb/" height="30" width="70" /></a>
 <a href="https://instagram.com/darshanbalar40" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="darshanbalar40" height="30" width="70" /></a>
 </p>
