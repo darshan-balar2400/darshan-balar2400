@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Web Development**
 
-- 📫 you can reach me via my email =  **balardarshan40@gmail.com**
+- 📫 you can reach me via my email =  **balardarshan240@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
