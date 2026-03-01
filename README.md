@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently doing **MCA From VIT,Vellore**
+- 🌱 I’m currently working as a system engineer in **TCS**
 
 - 💬 Ask me about **Web Development**
 
-- 📫 you can reach me via my email =  **balardarshan2400@gmail.com**
+- 📫 You can reach me via my email =  **balardarshan40@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
